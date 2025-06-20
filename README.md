@@ -23,14 +23,16 @@ A visual preview of Boyeong’s core features and UI design:
 
 ### 🔐 Login / Sign-up Screen
 
-Users can register or log in to access personalized progress tracking and saved vocabulary. 
+Users can register or log in to access personalised progress tracking and saved vocabulary. 
+
 <img src="assets/images/login.jpeg" width="300"/>
 
 ---
 
 ### 🏠 Main Menu
 
-Central navigation screen to access all learning features including quizzes, flashcards, Hangul writing, and phrases. 
+A central navigation screen that gives users quick access to all learning features.
+It also includes a logout option for users to securely sign out of their accounts.
 
 <img src="assets/images/main.jpeg" width="300"/>
 
@@ -38,25 +40,36 @@ Central navigation screen to access all learning features including quizzes, fla
 
 ### 🐱 Dashboard with Cat Animation & Daily Quotes
 
-Features a motivational cat mascot and daily K-drama quote with translation for inspiration. 
+Features a motivational cat mascot that dances or reacts based on progress, along with a daily K-drama quote and its English translation to keep learners inspired.
+The screen also includes a main menu navigation bar that allows users to access all other key features.
+
 <img src="assets/images/dashboard.jpeg" width="300"/>
 
 ---
 
 ### 🎬 K-Drama Clip Learning Screen
 
-Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun. 
-<img src="assets/images/clip1.jpeg" width="250"/> 
-<br/> 
-<img src="assets/images/clip2.jpeg" width="250"/>
+Learn Korean through short K-drama video clips with interactive subtitles. Each clip includes:
+
+Korean subtitles, English translation, and romanisation for easy understanding
+
+A "Practice" button to store selected words directly to the Flashcard Practice screen
+
+A “Next” button for continuous learning through fresh drama moments
+
+This immersive method combines real cultural context with practical vocabulary learning.
+<img src="assets/images/clip1.jpeg" width="300"/> 
+<img src="assets/images/clip2.jpeg" width="300"/>
 
 ---
 
 ### 🧠 Flashcard Practice Screen
 
-A swipe-based flashcard system using spaced repetition to help review and retain saved vocabulary. 
+A swipe-based flashcard system using spaced repetition to help users review and retain vocabulary.
+Flashcards are automatically generated from words saved on the K-drama clip screen, creating a seamless learning experience.
+When a user taps on a card, it flips to reveal the translation in English or Korean, depending on the front side. This promotes active recall and builds strong language memory over time.
+
 <img src="assets/images/flashcard1.jpeg" width="300"/>
-<br/>
 <img src="assets/images/flashcard2.jpeg" width="300"/>
 
 
@@ -64,7 +77,9 @@ A swipe-based flashcard system using spaced repetition to help review and retain
 
 ### 🧩 Quiz Screen
 
-Interactive quizzes including multiple choice, sentence building, and match pairs to reinforce learning. 
+Interactive quizzes designed to reinforce learning through multiple game modes: multiple choice, match pairs, sentence rebuilding, and more.
+If a user selects the correct answer, a dancing cat GIF appears as positive reinforcement. If the answer is incorrect, a crying cat emoji appears to gently encourage improvement.
+
 <img src="assets/images/quiz1.jpeg" width="300"/>
 <img src="assets/images/quiz2.jpeg" width="300"/>
 
@@ -74,20 +89,23 @@ Interactive quizzes including multiple choice, sentence building, and match pair
 ### ✍️ Hangul Practice Screen
 
 Users can trace and practice Korean letters on a drawing pad, including both basic and complex characters. 
+
 <img src="assets/images/hangul.jpeg" width="300"/>
 
 ---
 
 ### 💬 Phrase Library Screen
 
-Browse trendy Korean expressions and popular drama phrases with pronunciation and English meanings. 
+Browse trendy Korean expressions and popular drama phrases and everyday daily phrases with English translation meanings. 
+
 <img src="assets/images/phrases.jpeg" width="300"/>
 
 ---
 
 ### 🌐 Translation Screen
 
-Explore breakdowns of sentences from drama clips with root words, grammatical structures, and translations. 
+A mockup translation feature that allows users to translate text between English and Korean, helping with everyday practice beyond drama clips. Designed for quick lookups and simple sentence building.
+
 <img src="assets/images/translator.jpeg" width="300"/>
 
 ---
