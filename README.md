@@ -6,13 +6,29 @@ Boyeong is an interactive Korean language learning app that helps users improve 
 
 ## 📱 Features
 
-* 🎬 **Learn from K-Drama Clips** – 3-second video scenes with subtitles, English translations, and root word extraction.
-* 🧠 **Spaced Repetition & Flashcards** – Save new words and review them in a swipeable flashcard interface.
-* 🎤 **Pronunciation Practice** – Integrated speech recognition lets users practice and refine speaking skills.
-* ✏️ **Hangul Drawing Practice** – Trace consonants and vowels directly in-app to master Korean writing.
-* 🧩 **Multiple Quiz Modes** – Reinforce learning through match-pairs, multiple-choice, tap-to-reveal, and sentence rebuilding.
-* 💬 **K-Drama Phrasebook** – Learn trendy Korean expressions and phrases from your favorite shows.
-* 🐱 **Gamified Learning with Cute Cat Mascot** – Motivation through visual feedback (dancing/cute cat animations).
+🎬 Learn from K-Drama Clips
+Watch short drama clips with subtitles, English translations, and romanisation. Words that show root form, meaning, and pronunciation. Save words to practice later and move to the next scene with one click.
+
+💾 Save & Review Vocabulary
+Words saved from drama scenes are automatically added to your Flashcard Practice and Quiz sections for long-term learning.
+
+🧠 Flashcard Practice with Flip Interaction
+Swipe through saved vocabulary cards. Tap to flip between Korean and English meanings, helping reinforce active recall. Supports spaced repetition.
+
+🧩 Interactive Quizzes with Cat Feedback
+Practice vocabulary through multiple modes: multiple choice, match pairs, sentence building, and more. Correct answers trigger a dancing cat GIF, while wrong answers show a crying cat for playful encouragement.
+
+✍️ Hangul Writing Practice
+Trace Korean consonants and vowels in a drawing canvas with guided stroke outlines. Supports both basic and complex Hangul characters.
+
+💬 Phrase Library from K-Dramas
+Learn common expressions and trendy phrases from your favorite Korean shows and translations.
+
+🌐 Mockup Translation Tool
+Type and translate between English and Korean using a built-in mockup feature — great for quick lookups and practice.
+
+🐱 Gamified Dashboard with Cat Mascot & Quotes
+Stay motivated with a dashboard featuring a dancing cat mascot and a daily K-drama quote with translation. 
 
 
 ## 📸 Screenshots
@@ -58,8 +74,9 @@ A "Practice" button to store selected words directly to the Flashcard Practice s
 A “Next” button for continuous learning through fresh drama moments
 
 This immersive method combines real cultural context with practical vocabulary learning.
-<img src="assets/images/clip1.jpeg" width="300"/> 
-<img src="assets/images/clip2.jpeg" width="300"/>
+
+<img src="assets/images/clip1.jpeg" width="200"/> 
+<img src="assets/images/clip2.jpeg" width="200"/>
 
 ---
 
@@ -69,8 +86,8 @@ A swipe-based flashcard system using spaced repetition to help users review and 
 Flashcards are automatically generated from words saved on the K-drama clip screen, creating a seamless learning experience.
 When a user taps on a card, it flips to reveal the translation in English or Korean, depending on the front side. This promotes active recall and builds strong language memory over time.
 
-<img src="assets/images/flashcard1.jpeg" width="300"/>
-<img src="assets/images/flashcard2.jpeg" width="300"/>
+<img src="assets/images/flashcard1.jpeg" width="200"/>
+<img src="assets/images/flashcard2.jpeg" width="200"/>
 
 
 ---
@@ -80,8 +97,8 @@ When a user taps on a card, it flips to reveal the translation in English or Kor
 Interactive quizzes designed to reinforce learning through multiple game modes: multiple choice, match pairs, sentence rebuilding, and more.
 If a user selects the correct answer, a dancing cat GIF appears as positive reinforcement. If the answer is incorrect, a crying cat emoji appears to gently encourage improvement.
 
-<img src="assets/images/quiz1.jpeg" width="300"/>
-<img src="assets/images/quiz2.jpeg" width="300"/>
+<img src="assets/images/quiz1.jpeg" width="200"/>
+<img src="assets/images/quiz2.jpeg" width="200"/>
 
 
 ---
