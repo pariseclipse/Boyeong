@@ -24,12 +24,6 @@ A visual preview of Boyeong’s core features and UI design:
 
 ---
 
-### 🎬 K-Drama Clip Learning Screen
-
-Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun.
-![K-Drama Clip Learning](images/login.jpeg)
-
----
 
 ### 🔐 Login / Sign-up Screen
 
@@ -49,6 +43,13 @@ Central navigation screen to access all learning features including quizzes, fla
 
 Features a motivational cat mascot and daily K-drama quote with translation for inspiration.
 ![Dashboard](screenshots/dashboard.png)
+
+---
+
+### 🎬 K-Drama Clip Learning Screen
+
+Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun.
+![K-Drama Clip Learning](assets/images/login.jpeg)
 
 ---
 
