@@ -1,50 +1,62 @@
-# Welcome to your Expo app 👋
+# 🌸 Boyeong — Learn Korean through K-Dramas
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+*A Final Year Project by Paris Le*
 
-## Get started
+Boyeong is an interactive Korean language learning app that helps users improve their vocabulary, comprehension, and pronunciation using short, real-life K-drama scenes. Designed with language immersion in mind, Boyeong makes studying feel fun, engaging, and culturally enriching.
 
-1. Install dependencies
+## 📱 Features
 
-   ```bash
-   npm install
-   ```
+* 🎬 **Learn from K-Drama Clips** – 3-second video scenes with subtitles, English translations, and root word extraction.
+* 🧠 **Spaced Repetition & Flashcards** – Save new words and review them in a swipeable flashcard interface.
+* 🎤 **Pronunciation Practice** – Integrated speech recognition lets users practice and refine speaking skills.
+* ✏️ **Hangul Drawing Practice** – Trace consonants and vowels directly in-app to master Korean writing.
+* 🧩 **Multiple Quiz Modes** – Reinforce learning through match-pairs, multiple-choice, tap-to-reveal, and sentence rebuilding.
+* 💬 **K-Drama Phrasebook** – Learn trendy Korean expressions and phrases from your favorite shows.
+* 🐱 **Gamified Learning with Cute Cat Mascot** – Motivation through visual feedback (dancing/cute cat animations).
 
-2. Start the app
+## ⚙️ Tech Stack
 
-   ```bash
-    npx expo start
-   ```
+* **Frontend**: React Native (Expo)
+* **Backend**: Firebase (Authentication, Firestore, Storage)
+* **Speech Recognition**: Expo Speech, Web Speech API
+* **Video Playback**: Expo AV
+* **Drawing Canvas**: react-native-signature-canvas
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## 📂 Project Structure
 
 ```bash
-npm run reset-project
+Boyeong/
+├── assets/                # Video clips, images, and audio
+├── components/            # Reusable UI components
+├── screens/               # Main app screens (Learn, Practice, Dashboard, etc.)
+├── services/              # Firebase setup and utility functions
+├── utils/                 # Helper functions (e.g., saveWordToFirebase)
+├── App.js                 # Entry point
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🚀 Getting Started
 
-## Learn more
+To run the project locally:
 
-To learn more about developing your project with Expo, look at the following resources:
+```bash
+git clone https://github.com/yourusername/boyeong.git
+cd boyeong
+npm install
+npx expo start
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Make sure to add your Firebase config in `/services/firebase.jsx`.
 
-## Join the community
+## 🛠️ Future Plans
 
-Join our community of developers creating universal apps.
+* Add spaced repetition logic with custom learning intervals
+* Integrate voice acting or tone correction feedback
+* Publish to App Store / Play Store
+* Add community features for user-shared phrases and scenes
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🧑‍🎓 About the Creator
+
+I’m Paris Le, a final-year Computer Science student at TU Dublin, passionate about Korean culture, language learning, and educational technology. Boyeong was inspired by my own journey studying abroad in Korea and my love for dramas as a learning tool.
+
+Connect with me:
+🌐 [linkedin](https://www.linkedin.com/in/paristrinhle/)) | 📧 [parisletrinh@gmail.com](mailto:paristrinhle@gmail.com)
