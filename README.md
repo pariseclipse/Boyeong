@@ -31,6 +31,7 @@ Users can register or log in to access personalized progress tracking and saved 
 ### 🏠 Main Menu
 
 Central navigation screen to access all learning features including quizzes, flashcards, Hangul writing, and phrases. 
+
 <img src="assets/images/main.jpeg" width="300"/>
 
 ---
@@ -44,21 +45,29 @@ Features a motivational cat mascot and daily K-drama quote with translation for 
 
 ### 🎬 K-Drama Clip Learning Screen
 
-Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun. <img src="assets/images/clip1.jpeg" width="250"/> <br/> <img src="assets/images/clip2.jpeg" width="250"/>
+Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun. 
+<img src="assets/images/clip1.jpeg" width="250"/> 
+<br/> 
+<img src="assets/images/clip2.jpeg" width="250"/>
 
 ---
 
 ### 🧠 Flashcard Practice Screen
 
 A swipe-based flashcard system using spaced repetition to help review and retain saved vocabulary. 
-<img src="assets/images/flashcard.jpeg" width="300"/>
+<img src="assets/images/flashcard1.jpeg" width="300"/>
+<br/>
+<img src="assets/images/flashcard2.jpeg" width="300"/>
+
 
 ---
 
 ### 🧩 Quiz Screen
 
 Interactive quizzes including multiple choice, sentence building, and match pairs to reinforce learning. 
-<img src="assets/images/quiz.jpeg" width="300"/>
+<img src="assets/images/quiz1.jpeg" width="300"/>
+<img src="assets/images/quiz2.jpeg" width="300"/>
+
 
 ---
 
@@ -72,14 +81,14 @@ Users can trace and practice Korean letters on a drawing pad, including both bas
 ### 💬 Phrase Library Screen
 
 Browse trendy Korean expressions and popular drama phrases with pronunciation and English meanings. 
-<img src="assets/images/phrase.jpeg" width="300"/>
+<img src="assets/images/phrases.jpeg" width="300"/>
 
 ---
 
 ### 🌐 Translation Screen
 
 Explore breakdowns of sentences from drama clips with root words, grammatical structures, and translations. 
-<img src="assets/images/translation.jpeg" width="300"/>
+<img src="assets/images/translator.jpeg" width="300"/>
 
 ---
 
