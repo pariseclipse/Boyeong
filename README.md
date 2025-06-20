@@ -23,55 +23,63 @@ A visual preview of Boyeong’s core features and UI design:
 
 ### 🔐 Login / Sign-up Screen
 
-Users can register or log in to access personalized progress tracking and saved vocabulary. <img src="assets/images/login.jpeg" width="400"/>
+Users can register or log in to access personalized progress tracking and saved vocabulary. 
+<img src="assets/images/login.jpeg" width="300"/>
 
 ---
 
 ### 🏠 Main Menu
 
-Central navigation screen to access all learning features including quizzes, flashcards, Hangul writing, and phrases. <img src="assets/images/main.jpeg" width="400"/>
+Central navigation screen to access all learning features including quizzes, flashcards, Hangul writing, and phrases. 
+<img src="assets/images/main.jpeg" width="300"/>
 
 ---
 
 ### 🐱 Dashboard with Cat Animation & Daily Quotes
 
-Features a motivational cat mascot and daily K-drama quote with translation for inspiration. <img src="assets/images/dashboard.jpeg" width="400"/>
+Features a motivational cat mascot and daily K-drama quote with translation for inspiration. 
+<img src="assets/images/dashboard.jpeg" width="300"/>
 
 ---
 
 ### 🎬 K-Drama Clip Learning Screen
 
-Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun. <img src="assets/images/clip1.jpeg" width="400"/> <br/> <img src="assets/images/clip2.jpeg" width="400"/>
+Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun. <img src="assets/images/clip1.jpeg" width="250"/> <br/> <img src="assets/images/clip2.jpeg" width="250"/>
 
 ---
 
 ### 🧠 Flashcard Practice Screen
 
-A swipe-based flashcard system using spaced repetition to help review and retain saved vocabulary. <img src="assets/images/flashcard.jpeg" width="400"/>
+A swipe-based flashcard system using spaced repetition to help review and retain saved vocabulary. 
+<img src="assets/images/flashcard.jpeg" width="300"/>
 
 ---
 
 ### 🧩 Quiz Screen
 
-Interactive quizzes including multiple choice, sentence building, and match pairs to reinforce learning. <img src="assets/images/quiz.jpeg" width="400"/>
+Interactive quizzes including multiple choice, sentence building, and match pairs to reinforce learning. 
+<img src="assets/images/quiz.jpeg" width="300"/>
 
 ---
 
 ### ✍️ Hangul Practice Screen
 
-Users can trace and practice Korean letters on a drawing pad, including both basic and complex characters. <img src="assets/images/hangul.jpeg" width="400"/>
+Users can trace and practice Korean letters on a drawing pad, including both basic and complex characters. 
+<img src="assets/images/hangul.jpeg" width="300"/>
 
 ---
 
 ### 💬 Phrase Library Screen
 
-Browse trendy Korean expressions and popular drama phrases with pronunciation and English meanings. <img src="assets/images/phrase.jpeg" width="400"/>
+Browse trendy Korean expressions and popular drama phrases with pronunciation and English meanings. 
+<img src="assets/images/phrase.jpeg" width="300"/>
 
 ---
 
 ### 🌐 Translation Screen
 
-Explore breakdowns of sentences from drama clips with root words, grammatical structures, and translations. <img src="assets/images/translation.jpeg" width="400"/>
+Explore breakdowns of sentences from drama clips with root words, grammatical structures, and translations. 
+<img src="assets/images/translation.jpeg" width="300"/>
 
 ---
 
