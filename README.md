@@ -14,6 +14,82 @@ Boyeong is an interactive Korean language learning app that helps users improve 
 * 💬 **K-Drama Phrasebook** – Learn trendy Korean expressions and phrases from your favorite shows.
 * 🐱 **Gamified Learning with Cute Cat Mascot** – Motivation through visual feedback (dancing/cute cat animations).
 
+Of course! Here's the **updated Screenshots section** in your `README.md`, now including the **K-drama Clip Learning Screen** with a short description. You can insert this into your README directly.
+
+---
+
+## 📸 Screenshots
+
+A visual preview of Boyeong’s core features and UI design:
+
+---
+
+### 🎬 K-Drama Clip Learning Screen
+
+Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun.
+![K-Drama Clip Learning](images/login.jpeg)
+
+---
+
+### 🔐 Login / Sign-up Screen
+
+Users can register or log in to access personalized progress tracking and saved vocabulary.
+![Login](screenshots/login.png)
+
+---
+
+### 🏠 Main Menu
+
+Central navigation screen to access all learning features including quizzes, flashcards, Hangul writing, and phrases.
+![Main Menu](screenshots/menu.png)
+
+---
+
+### 🐱 Dashboard with Cat Animation & Daily Quotes
+
+Features a motivational cat mascot and daily K-drama quote with translation for inspiration.
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### 🧠 Flashcard Practice Screen
+
+A swipe-based flashcard system using spaced repetition to help review and retain saved vocabulary.
+![Flashcards](screenshots/flashcards.png)
+
+---
+
+### 🧩 Quiz Screen
+
+Interactive quizzes including multiple choice, sentence building, and match pairs to reinforce learning.
+![Quiz](screenshots/quiz.png)
+
+---
+
+### ✍️ Hangul Practice Screen
+
+Users can trace and practice Korean letters on a drawing pad, including both basic and complex characters.
+![Hangul](screenshots/hangul.png)
+
+---
+
+### 💬 Phrase Library Screen
+
+Browse trendy Korean expressions and popular drama phrases with pronunciation and English meanings.
+![Phrase Library](screenshots/phrases.png)
+
+---
+
+### 🌐 Translation Screen
+
+Explore breakdowns of sentences from drama clips with root words, grammatical structures, and translations.
+![Translation](screenshots/translation.png)
+
+---
+
+Let me know if you'd like to add GIFs, a YouTube demo link, or switch to a 2-column grid layout for the visuals!
+
+
 ## ⚙️ Tech Stack
 
 * **Frontend**: React Native (Expo)
