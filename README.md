@@ -74,9 +74,8 @@ A "Practice" button to store selected words directly to the Flashcard Practice s
 A “Next” button for continuous learning through fresh drama moments
 
 This immersive method combines real cultural context with practical vocabulary learning.
-
-<img src="assets/images/clip1.jpeg" width="200"/> 
-<img src="assets/images/clip2.jpeg" width="200"/>
+<img src="assets/images/clip1.jpeg" width="300"/> 
+<img src="assets/images/clip2.jpeg" width="300"/>
 
 ---
 
@@ -85,9 +84,8 @@ This immersive method combines real cultural context with practical vocabulary l
 A swipe-based flashcard system using spaced repetition to help users review and retain vocabulary.
 Flashcards are automatically generated from words saved on the K-drama clip screen, creating a seamless learning experience.
 When a user taps on a card, it flips to reveal the translation in English or Korean, depending on the front side. This promotes active recall and builds strong language memory over time.
-
-<img src="assets/images/flashcard1.jpeg" width="200"/>
-<img src="assets/images/flashcard2.jpeg" width="200"/>
+<img src="assets/images/flashcard1.jpeg" width="300"/>
+<img src="assets/images/flashcard2.jpeg" width="300"/>
 
 
 ---
@@ -96,9 +94,8 @@ When a user taps on a card, it flips to reveal the translation in English or Kor
 
 Interactive quizzes designed to reinforce learning through multiple game modes: multiple choice, match pairs, sentence rebuilding, and more.
 If a user selects the correct answer, a dancing cat GIF appears as positive reinforcement. If the answer is incorrect, a crying cat emoji appears to gently encourage improvement.
-
-<img src="assets/images/quiz1.jpeg" width="200"/>
-<img src="assets/images/quiz2.jpeg" width="200"/>
+<img src="assets/images/quiz1.jpeg" width="300"/>
+<img src="assets/images/quiz2.jpeg" width="300"/>
 
 
 ---
