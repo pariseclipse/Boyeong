@@ -14,9 +14,6 @@ Boyeong is an interactive Korean language learning app that helps users improve 
 * 💬 **K-Drama Phrasebook** – Learn trendy Korean expressions and phrases from your favorite shows.
 * 🐱 **Gamified Learning with Cute Cat Mascot** – Motivation through visual feedback (dancing/cute cat animations).
 
-Of course! Here's the **updated Screenshots section** in your `README.md`, now including the **K-drama Clip Learning Screen** with a short description. You can insert this into your README directly.
-
----
 
 ## 📸 Screenshots
 
@@ -24,77 +21,60 @@ A visual preview of Boyeong’s core features and UI design:
 
 ---
 
-
 ### 🔐 Login / Sign-up Screen
 
-Users can register or log in to access personalized progress tracking and saved vocabulary.
-![Login](assets/images/login.jpeg)
+Users can register or log in to access personalized progress tracking and saved vocabulary. <img src="assets/images/login.jpeg" width="400"/>
 
 ---
 
 ### 🏠 Main Menu
 
-Central navigation screen to access all learning features including quizzes, flashcards, Hangul writing, and phrases.
-![Main Menu](assets/images/main.jpeg)
+Central navigation screen to access all learning features including quizzes, flashcards, Hangul writing, and phrases. <img src="assets/images/main.jpeg" width="400"/>
 
 ---
 
 ### 🐱 Dashboard with Cat Animation & Daily Quotes
 
-Features a motivational cat mascot and daily K-drama quote with translation for inspiration.
-![Dashboard](assets/images/dashboard.jpeg)
+Features a motivational cat mascot and daily K-drama quote with translation for inspiration. <img src="assets/images/dashboard.jpeg" width="400"/>
 
 ---
 
 ### 🎬 K-Drama Clip Learning Screen
 
-Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun.
-![K-Drama Clip Learning](assets/images/clip1.jpeg)
-![K-Drama Clip Learning](assets/images/clip2.jpeg)
+Learn Korean through 3-second K-drama scenes with clickable subtitles, English translations, and vocabulary extraction to make learning feel immersive and fun. <img src="assets/images/clip1.jpeg" width="400"/> <br/> <img src="assets/images/clip2.jpeg" width="400"/>
 
 ---
 
 ### 🧠 Flashcard Practice Screen
 
-A swipe-based flashcard system using spaced repetition to help review and retain saved vocabulary.
-![Flashcards](![K-Drama Clip Learning](assets/images/flashcard.jpeg)
-)
+A swipe-based flashcard system using spaced repetition to help review and retain saved vocabulary. <img src="assets/images/flashcard.jpeg" width="400"/>
 
 ---
 
 ### 🧩 Quiz Screen
 
-Interactive quizzes including multiple choice, sentence building, and match pairs to reinforce learning.
-![Quiz](![K-Drama Clip Learning](assets/images/quiz.jpeg)
-)
+Interactive quizzes including multiple choice, sentence building, and match pairs to reinforce learning. <img src="assets/images/quiz.jpeg" width="400"/>
 
 ---
 
 ### ✍️ Hangul Practice Screen
 
-Users can trace and practice Korean letters on a drawing pad, including both basic and complex characters.
-![Hangul](![K-Drama Clip Learning](assets/images/hangul.jpeg)
-)
+Users can trace and practice Korean letters on a drawing pad, including both basic and complex characters. <img src="assets/images/hangul.jpeg" width="400"/>
 
 ---
 
 ### 💬 Phrase Library Screen
 
-Browse trendy Korean expressions and popular drama phrases with pronunciation and English meanings.
-![Phrase Library](![K-Drama Clip Learning](assets/images/phrase.jpeg)
-)
+Browse trendy Korean expressions and popular drama phrases with pronunciation and English meanings. <img src="assets/images/phrase.jpeg" width="400"/>
 
 ---
 
 ### 🌐 Translation Screen
 
-Explore breakdowns of sentences from drama clips with root words, grammatical structures, and translations.
-![Translation](![K-Drama Clip Learning](assets/images/translation.jpeg)
-)
+Explore breakdowns of sentences from drama clips with root words, grammatical structures, and translations. <img src="assets/images/translation.jpeg" width="400"/>
 
 ---
 
-Let me know if you'd like to add GIFs, a YouTube demo link, or switch to a 2-column grid layout for the visuals!
 
 
 ## ⚙️ Tech Stack
