@@ -59,4 +59,4 @@ Make sure to add your Firebase config in `/services/firebase.jsx`.
 I’m Paris Le, a final-year Computer Science student at TU Dublin, passionate about Korean culture, language learning, and educational technology. Boyeong was inspired by my own journey studying abroad in Korea and my love for dramas as a learning tool.
 
 Connect with me:
-🌐 [linkedin](https://www.linkedin.com/in/paristrinhle/)) | 📧 [parisletrinh@gmail.com](mailto:paristrinhle@gmail.com)
+🌐 [linkedin](https://www.linkedin.com/in/paristrinhle/) | 📧 [parisletrinh@gmail.com](mailto:paristrinhle@gmail.com)
